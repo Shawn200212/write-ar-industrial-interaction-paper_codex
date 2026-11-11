@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "codex",
+  "core": "write-ar-industrial-interaction-paper_codex-core",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "write-ar-industrial-interaction-paper": "58f50f073d14c77e1d225af5c516e62c06e4711508cd22edae0a8d88e2e7717b"
+  }
+}
